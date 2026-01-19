@@ -1,37 +1,55 @@
-0:00:00 Startup
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
-0:00:00 Microsoft.NewBrowser_Popup
-0:00:00 Microsoft.BrowserList.AddBrowser
-0:00:00 Browser1 Insert active Tab1 at 0
-0:00:00 Tab1 StartNav1 #auto_toplevel
-0:00:00 Tab1 FinishNav1
-0:00:00 Tab1 PageLoad
-0:00:01 Memory Pressure: Critical
-0:00:01 Tab1 StartNav2 #typed
-0:00:01 Tab1 FinishNav2 ERR_ABORTED
-0:00:01 Tab1 StartNav3 #typed
-0:00:01 Tab1 FinishNav3
-0:00:01 Tab1 PageLoad
-0:00:04 Memory Pressure: Moderate
-0:00:15 Memory Pressure: Moderate
-0:00:17 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-0:00:00 Startup
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
-0:00:00 Microsoft.NewBrowser_Popup
-0:00:00 Microsoft.BrowserList.AddBrowser
-0:00:00 Browser1 Insert active Tab1 at 0
-0:00:00 Tab1 StartNav1 #auto_toplevel
-0:00:00 Tab1 StartNav2 #typed
-0:00:00 Tab1 FinishNav1
-0:00:00 Tab1 PageLoad
-0:00:04 Memory Pressure: Moderate
-0:00:14 Tab1 FinishNav2
-0:00:14 Memory Pressure: Moderate
-0:00:25 Memory Pressure: Moderate
-0:00:28 Tab1 PageLoad
-0:00:35 Memory Pressure: Critical
-0:00:40 Memory Pressure: Moderate
-0:00:50 Memory Pressure: Moderate
-0:00:53 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:49:32 Tab14 StartNav73 #typed
+0:49:32 Tab14 FinishNav73
+0:49:32 Tab14 PageLoad
+0:49:35 Memory Pressure: Moderate
+0:49:45 Memory Pressure: Moderate
+0:50:09 Tab14 StartNav74 #typed
+0:50:09 Tab14 FinishNav74
+0:50:09 Tab14 PageLoad
+0:50:10 Memory Pressure: Moderate
+0:50:13 Tab14 StartNav75 #typed
+0:50:13 Tab14 FinishNav75
+0:50:13 Tab14 PageLoad
+0:50:25 Memory Pressure: Moderate
+0:50:35 Memory Pressure: Moderate
+0:50:45 Memory Pressure: Moderate
+0:50:55 Memory Pressure: Moderate
+0:51:05 Memory Pressure: Moderate
+0:51:14 Tab14 StartNav76 #typed
+0:51:14 Tab14 FinishNav76
+0:51:14 Tab14 PageLoad
+0:51:15 Memory Pressure: Moderate
+0:51:25 Memory Pressure: Moderate
+0:51:35 Memory Pressure: Moderate
+0:51:45 Memory Pressure: Moderate
+0:51:55 Memory Pressure: Moderate
+0:52:15 Memory Pressure: Moderate
+0:52:25 Memory Pressure: Moderate
+0:52:45 Memory Pressure: Moderate
+0:52:55 Memory Pressure: Moderate
+0:53:05 Memory Pressure: Moderate
+0:53:15 Memory Pressure: Moderate
+0:53:25 Memory Pressure: Moderate
+0:53:35 Memory Pressure: Moderate
+0:53:53 Tab11 StartNav77 #typed
+0:53:53 Tab11 FinishNav77
+0:53:53 Tab11 PageLoad
+0:53:54 Tab11 StartNav78 #typed
+0:53:54 Tab11 FinishNav78
+0:53:54 Tab11 PageLoad
+0:54:05 Memory Pressure: Moderate
+0:54:05 Tab11 StartNav79 #typed
+0:54:06 Tab11 FinishNav79
+0:54:06 Tab11 PageLoad
+0:54:15 Tab11 StartNav80 #typed
+0:54:15 Tab11 FinishNav80
+0:54:15 Tab11 PageLoad
+0:54:30 Memory Pressure: Moderate
+0:54:40 Memory Pressure: Moderate
+0:54:50 Memory Pressure: Moderate
+0:55:00 Memory Pressure: Moderate
+0:55:10 Memory Pressure: Moderate
+0:55:20 Memory Pressure: Moderate
+0:55:35 Memory Pressure: Moderate
+0:55:46 Memory Pressure: Moderate
+0:55:56 Memory Pressure: Moderate
